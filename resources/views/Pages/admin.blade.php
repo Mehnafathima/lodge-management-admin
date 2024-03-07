@@ -5,7 +5,7 @@
   <!-- Content -->
   <div class="container-xxl flex-grow-1 container-p-y">
     <div class="d-flex justify-content-between align-items-center py-3 mb-2">
-      <h4>Admins</h4>
+      <h4>Owner</h4>
       <div class="text-end">
         <a href="{{ route('users.create') }}" class="btn btn-primary me-2">
           <span class="tf-icons mdi mdi-plus me-1"></span> Add new
@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="card">
-      <h5 class="card-header">Manage Admin</h5>
+      <h5 class="card-header">Manage Owner</h5>
       <div class="table-responsive text-nowrap m-3">
       <table class="table table-bordered" id="jobsTable">
     <thead class="table-light">

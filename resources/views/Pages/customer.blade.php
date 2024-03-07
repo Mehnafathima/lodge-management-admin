@@ -13,7 +13,7 @@
         <tr>
             <th class="text-center">#</th>
             <th>Customer</th>
-            <th>Address</th>
+            <th>Place</th>
             <th>Phone</th>
             <th>Status</th>
             <th class="text-center">Actions</th>
