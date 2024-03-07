@@ -89,7 +89,7 @@
         },
         success: function() {
           // Reload the DataTable
-          toastr.success('Admin deleted successfully', 'Success');
+          toastr.success('Owner deleted successfully', 'Success');
 
           $('#jobsTable').DataTable().ajax.reload();
         }
