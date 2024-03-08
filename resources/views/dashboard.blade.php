@@ -396,7 +396,7 @@
                         </div>
                         <div>
                           <div class="d-flex align-items-center gap-1">
-                            <h6 class="mb-0">$745k</h6>
+                            <h6 class="mb-0">$434</h6>
                             <i class="mdi mdi-chevron-down mdi-24px text-danger"></i>
                             <small class="text-danger">11.9%</small>
                           </div>
