@@ -497,7 +497,7 @@
                             </div>
                             <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                               <div class="me-2">
-                                <h6 class="mb-0">Bank Account</h6>
+                                <h6 class="mb-0">Bank Acc</h6>
                                 <small>Wallet deposit</small>
                               </div>
                               <h6 class="text-success mb-0">+$446</h6>
