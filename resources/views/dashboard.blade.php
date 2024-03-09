@@ -281,9 +281,9 @@
                             <i class="mdi mdi-dots-vertical mdi-24px"></i>
                           </button>
                           <div class="dropdown-menu dropdown-menu-end" aria-labelledby="newProjectID">
-                            <a class="dropdown-item" href="javascript:void(0);">Refresh</a>
-                            <a class="dropdown-item" href="javascript:void(0);">Share</a>
-                            <a class="dropdown-item" href="javascript:void(0);">Update</a>
+                            <a class="dropdown-item" href="javascript:void(0);">Mehna</a>
+                            <a class="dropdown-item" href="javascript:void(0);">Mehna</a>
+                            <a class="dropdown-item" href="javascript:void(0);">Mehna</a>
                           </div>
                         </div>
                       </div>
