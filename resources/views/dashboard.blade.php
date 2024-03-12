@@ -373,7 +373,7 @@
                     <div class="d-flex flex-wrap justify-content-between align-items-center mb-4">
                       <div class="d-flex align-items-center">
                         <div class="avatar me-3">
-                          <span class="avatar-initial bg-label-warning rounded-circle">IN</span>
+                          <span class="avatar-initial bg-label-warning rounded-circle">INDIA</span>
                         </div>
                         <div>
                           <div class="d-flex align-items-center gap-1">
