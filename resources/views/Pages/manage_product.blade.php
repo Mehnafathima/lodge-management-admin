@@ -28,7 +28,7 @@
                             @endif
                             <div class="form-floating form-floating-outline mb-4">
                                 <input type="text" class="form-control" id="basic-default-name" name="product_name" placeholder="Enter the product name" value="{{ isset($product) ? $product->PD_Name : '' }}" />
-                                <label for="basic-default-fullname">Product Name</label>
+                                <label for="basic-default-fullname">Product </label>
                                 <div class="invalid-feedback"> Please enter a product name.</div>
 
                             </div>
